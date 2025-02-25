@@ -5,7 +5,7 @@
 </h5>
  <h1 align="center">Languages, Frameworks and Tools</h1>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=css,html,js,ts,py,react,nextjs,angular,redux,nodejs,express,django,flask,jest,bootstrap,less,materialui,sass,tailwind,firebase,mongodb,mysql,aws,gcp,git,github,gitlab,githubactions,apple,linux,windows,babel,bash,figma,jquery,netlify,npm,postman,rollupjs,vite,webpack,yarn&perline=13" />
+<img src="https://skillicons.dev/icons?i=css,html,js,ts,py,php,react,nextjs,angular,vue,redux,nodejs,express,django,flask,symfony,laravel,jest,bootstrap,less,materialui,sass,tailwind,firebase,mongodb,mysql,aws,gcp,git,github,gitlab,githubactions,apple,linux,windows,babel,bash,figma,jquery,netlify,npm,postman,rollupjs,vite,webpack,yarn&perline=13" />
 </div>
  <h1 align="center">Currently learning</h1>
 <div align="center">
